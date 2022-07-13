@@ -15,3 +15,6 @@ in for reference.
 You can read more about it on my blog post below:
 
 https://www.defaultroot.com/index.php/2020/07/07/a-magic-the-gathering-arena-bot-in-python/
+
+
+https://defaultroot.com/wp-content/uploads/2020/07/playingcards-and-attack_15-1.gif
