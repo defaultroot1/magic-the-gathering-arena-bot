@@ -1,4 +1,4 @@
-# magic-the-gathering-arena-bot
+# Magic The Gathering Arena Bot
 Magic The Gathering Arena bot that auto-plays to brute force daily and weekly rewards for gold/XP. Haven't used it since early 2020, likely doesn't work anymore! Uploading here for reference. 
 
 MTGA must be in full screen mode, 1920 x 1080, on primary monitor, and graphics adjusted to low. MTGA client needs to
